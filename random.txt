@@ -1,0 +1,1319 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+	<!-- Meta -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="description" content="Personal Portfolio Template">
+	<meta name="keywords" content="resposnive, resume, personal, personal portfolio, cv, myour, portfolio">
+	<meta name="author" content="beshleyua">
+
+	<!-- Title -->
+	<title>Tamaghno - Personal Portfolio</title>
+
+	<!-- Fonts -->
+	<link href="index_data/css.css" rel="stylesheet">
+	<link href="index_data/css_002.css" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/5fff35ef1f.js" crossorigin="anonymous"></script>
+
+	<!-- Styles -->
+	<link rel="stylesheet" href="index_data/basic.css">
+	<link rel="stylesheet" href="index_data/layout.css">
+	<link rel="stylesheet" href="index_data/magnific-popup.css">
+	<link rel="stylesheet" href="index_data/animate.css">
+	<link rel="stylesheet" href="index_data/jarallax.css">
+	<link rel="stylesheet" href="index_data/owl.css">
+	<link rel="stylesheet" href="index_data/swiper.css">
+	<link rel="stylesheet" href="index_data/fontawesome.css">
+
+	<!-- Theme Colors
+	<link rel="stylesheet" href="css/theme-colors/blue.css" />
+	<link rel="stylesheet" href="css/theme-colors/green.css" />
+	<link rel="stylesheet" href="css/theme-colors/orange.css" />
+	<link rel="stylesheet" href="css/theme-colors/brown.css" />
+	<link rel="stylesheet" href="css/theme-colors/purple.css" />
+	<link rel="stylesheet" href="css/theme-colors/red.css" />
+	<link rel="stylesheet" href="css/theme-colors/beige.css" />
+	<link rel="stylesheet" href="css/theme-colors/green_light.css" />
+	<link rel="stylesheet" href="css/theme-colors/yellow.css" />
+	<link rel="stylesheet" href="css/theme-colors/yellow_light.css" />
+	-->
+		
+	<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="shortcut icon" href="https://bslthemes.com/myour/demo/images/favicons/favicon.ico">
+
+</head>
+
+<body class="home">
+
+	<!-- Preloader -->
+	<div class="preloader">
+		<div class="box-1" style="transform: translateY(-100%);">
+			<div class="centrize full-width">
+				<div class="vertical-center">
+					<div class="spinner" style="opacity: 0; transform: translateY(-40px);">
+						<div class="lines"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="box-2" style="transform: translateY(-100%);"></div>
+	</div>
+	
+	<!-- Container -->
+	<div class="container">
+	
+		<!-- Header -->
+		<header class="header">
+
+			<!-- logo -->
+			<div class="logo">
+				<a href="#">
+					<img class="logo-img" src="images/logo.png" alt="">
+					<span class="logo-lnk">Tamaghno <br>Chaudhuri</span>
+				</a>
+			</div>
+
+			<!-- menu button -->
+			<a href="#" class="menu-btn"><span></span></a>
+				
+			<!-- download cv button -->
+			<a href="#" class="btn download-cv-btn">
+				<span class="animated-button"><span><em>D</em><em>o</em><em>w</em><em>n</em><em>l</em><em>o</em><em>a</em><em>d</em><em> </em><em>C</em><em>V</em></span></span>
+				<i class="icon fas fa-download"></i>
+			</a>
+
+			<!-- header sidebar -->
+			<div class="header-sidebar">
+
+				<!-- top menu -->						
+				<div class="top-menu">
+					<div class="top-menu-nav">	
+						<div class="menu-topmenu-container">
+							<ul class="menu">
+								<li class="menu-item current-menu-item">
+									<a href="#section-started">
+										<span class="animated-button"><span><em>H</em><em>o</em><em>m</em><em>e</em></span></span>
+									</a>
+									<!-- <ul class="sub-menu">
+										<li class="menu-item"><a href="https://bslthemes.com/myour/demo/index.html">Home 1</a></li>
+										<li class="menu-item"><a href="https://bslthemes.com/myour/demo/index-2.html">Home 2</a></li>
+										<li class="menu-item"><a href="https://bslthemes.com/myour/demo/index-3.html">Home 3</a></li>
+										<li class="menu-item"><a href="https://bslthemes.com/myour/demo/index-slider.html">Home Slider</a></li>
+										<li class="menu-item"><a href="https://bslthemes.com/myour/demo/index-video.html">Home Video</a></li>
+									</ul> -->
+								</li>
+								<li class="menu-item">
+									<a href="#section-about">
+										<span class="animated-button"><span><em>A</em><em>b</em><em>o</em><em>u</em><em>t</em></span></span>
+									</a>
+								</li>
+								<li class="menu-item">
+									<a href="#section-experience">
+										<span class="animated-button"><span><em>R</em><em>e</em><em>s</em><em>u</em><em>m</em><em>e</em></span></span>
+									</a>
+								</li>
+								<li class="menu-item">
+									<a href="#section-portfolio">
+										<span class="animated-button"><span><em>P</em><em>o</em><em>r</em><em>t</em><em>f</em><em>o</em><em>l</em><em>i</em><em>o</em></span></span>
+									</a>
+								</li>
+								<li class="menu-item">
+									<a href="#section-contacts">
+										<span class="animated-button"><span><em>C</em><em>o</em><em>n</em><em>t</em><em>a</em><em>c</em><em>t</em></span></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+		</header>
+		
+		<!-- Wrapper -->
+		<div class="wrapper">
+
+			<!-- Background -->
+			<div class="background-bg">
+				<div class="background-filter">
+					<div class="background-img" style="background-image: url(images/man.jpg);"></div>
+				</div>
+			</div>
+
+			<!-- Section Started -->
+			<div class="section started" id="section-started">
+				<div class="centrize full-width">
+					<div class="vertical-center">
+
+						<!-- title -->
+						<h1 class="h-title" style="font-size:45px">
+							Tamaghno Chaudhuri
+						</h1>
+
+						<!-- content started -->
+						<div class="started-content">
+
+							<!-- subtitle -->
+							<div class="h-subtitles">
+								<div class="h-subtitle typing-subtitle" style="display: none;">
+									<p>Student</p>
+									<p>Web Developer</p>
+									<p>Programmer</p>
+									<p>History Geek and Digital Artist</p>
+								</div>
+								<span class="typed-subtitle">Programmer</span><span class="typed-cursor"></span>
+							</div>
+
+							<!-- text -->
+							<div class="h-text">
+								Hello! I am a CS engineering student. I love web development and I aspire to be 
+								a good full-stack web developer. Besides that I love creating digital illustrations and other graphic designs. 
+								I am also into music and world history :-) 
+							</div>
+
+							<!-- button -->
+							<a href="#" class="btn">
+								<span class="animated-button"><span><em>C</em><em>o</em><em>n</em><em>t</em><em>a</em><em>c</em><em>t</em><em> </em><em>M</em><em>e</em></span></span>
+								<i class="icon fas fa-chevron-right"></i>
+							</a>
+
+							<!-- mosue button -->
+							<a href="#" class="btn mouse-btn">
+								<i class="icon fas fa-chevron-down"></i>
+							</a>
+
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+			<!-- Section About -->
+			<div class="section about" id="section-about">
+				<div class="content">
+
+					<!-- title -->
+					<div class="titles">
+						<div class="title">About Me</div>
+						<div class="subtitle">My story</div>
+					</div>
+
+					<!-- text -->
+					<div class="cols">
+						<div class="col">
+							<div class="single-post-text">
+								<p>
+									Born to humble parents in the suburbs of the city of Kolkata, India 1998. Only child in the family. My father is a great man,
+									and mom is an awesome cook !
+									My lineage roots back to the village of Comilla, Bangladesh where my grandparents resided before 
+									the partition of 1947. I love computers, art, music and world history.
+								</p>
+							</div>
+						</div>
+						<div class="col">
+							<div class="single-post-text">
+								<p>
+									Let's start from nursery. So i had my pre-school in Sister Nivedita Pre-School, Sakuntala. Moved to Meghmala
+									Roy Education Centre, Behala. Studied there till 10th Standard. Then I shifted to M.P. Birla Foundation Higher Secondary School, James Long Sarani.
+									Completed my engineering from St. Thomas' College of Egineering & Technology, affiliated to MAKAUT. 
+								</p>
+							</div>
+						</div>
+						<div class="col col-full">
+							<div class="single-post-text">
+								<p>
+									I love web development and I aspire to be 
+								a good full-stack web developer. Besides that I love creating digital illustrations and other graphic designs. 
+								I love music and had some training in Indian Classical Music when I was younger. Oh and I am also a history geek :)
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<!-- info list -->
+					<div class="info-list">
+						<ul>
+							<li><strong>Age:</strong> 23</li>
+							<li><strong>Residence:</strong> Kolkata, India</li>
+							<li><strong>Freelance:</strong> Available</li>
+							<li><strong>Address:</strong> 78/2/8, Biren Roy Road (west),<br /> Behala, Kolkata - 700061</li>
+							<li><strong>Phone:</strong> +91 6290 480826</li>
+							<li><strong>E-mail:</strong> tamaghno.chaudhuri@gmail.com</li>
+						</ul>
+					</div>
+
+					<div class="clear"></div>
+				</div>
+			</div>
+
+			<!-- Section Service -->
+			<div class="section service" id="section-services">
+				<div class="content">
+
+					<!-- title -->
+					<div class="titles">
+						<div class="title">What I Do</div>
+						<!-- <div class="subtitle">What I Do</div> -->
+					</div>
+
+					<!-- services items -->
+					<div class="service-items">
+
+						<!-- <div class="service-col">
+							<div class="service-item">
+								<div class="icon"><i class="fas fa-brain"></i></div>
+								<div class="name">Economic <br>Science</div>
+								<div class="single-post-text">
+									<p>
+										Economics is a social science concerned with the production, consumption of goods and services.
+									</p>
+								</div>
+							</div>
+						</div> -->
+						
+						<!-- <div class="service-col">
+							<div class="service-item">
+								<div class="icon"><i class="icon fas fa-ad"></i></div>
+								<div class="name">Marketing <br>&amp; Advertising</div>
+								<div class="single-post-text">
+									<p>
+										Advertising Management though is a complex process of employing various media to sell a product or service.
+									</p>
+								</div>
+							</div>
+						</div> -->
+
+						<div class="service-col">
+							<div class="service-item">
+								<div class="icon"><i class="icon fab fa-chrome"></i></div>
+								<div class="name">Web <br>Development</div>
+								<div class="single-post-text">
+									<p>
+										The web development process includes: web design, web content,
+ client-side / server-side scripting and network security configuration.
+									</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="service-col">
+							<div class="service-item">
+								<div class="icon"><i class="fab fa-android"></i></div>
+								<div class="name">Android <br> Development </div>
+								<div class="single-post-text">
+									<p>
+										Currently my team and I am working on this amazing idea of building an app that blends the idea 
+										of music therapy and online learning. Targeted for childer suffering from ASD and other developmental disorders.
+									</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="service-col">
+							<div class="service-item">
+								<div class="icon"><i class="icon fas fa-headphones"></i></div>
+								<div class="name">Music <br> </div>
+								<div class="single-post-text">
+									<p>
+										This includes vocals for songs and Indian classical instruments like Harmonium and Tabla.
+									</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="service-col">
+							<div class="service-item">
+								<div class="icon"><i class="fas fa-brush"></i></div>
+								<div class="name">Digital <br>Illustration</div>
+								<div class="single-post-text">
+									<p>
+										Digital arts, portraits, abstract contemporary forms of artworks. And Graphic Desigining as well. 
+										You can check out my instagram if you want to look at my artworks.
+									</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="service-col">
+							<div class="service-item">
+								<div class="icon"><i class="fas fa-video"></i></div>
+								<div class="name">Photography <br>&amp; Video</div>
+								<div class="single-post-text">
+									<p>
+										Just a side hobby. I love how the combination of light and shadow can bring out the thoughts that lay within.
+									</p>
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="clear"></div>
+				</div>
+			</div>
+
+			<!-- Section Pricing -->
+			
+
+			<!-- Section Resume -->
+			<div class="section resume" id="section-experience">
+				<div class="content">
+
+					<!-- title -->
+					<div class="titles">
+						<div class="title">Experience</div>
+						<div class="subtitle">Working with</div>
+					</div>
+
+					<!-- resume items -->
+					<div class="content-carousel">
+						<div class="owl-carousel owl-loaded owl-drag" data-slidesview="2" data-slidesview_mobile="1">
+
+							
+
+							
+
+							
+
+							
+
+							
+
+						<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;"><div class="owl-item active" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="resume-item active">
+									<div class="date">Present</div>
+									<div class="name">HRG <br>Transmission</div>
+									<div class="single-post-text">
+										<p>
+											Freelance task. Managing all the online requirements of the company. This includes website designing and other professional requirements.
+										</p>
+									</div>
+								</div>
+							</div></div><div class="owl-item active" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="resume-item">
+									<div class="date">2020-Apr</div>
+									<div class="name">Apsolutio <br>Tech Pvt. Ltd.</div>
+									<div class="single-post-text">
+										<p>
+											A SaaS-based startup in Kolkata. Developed their official Landing Page and also helped with one pf their products
+											that required the use of Google's Angular Framework.
+										</p>
+									</div>
+								</div>
+							</div></div><div class="owl-item" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="resume-item">
+									<div class="date">2019 - Nov</div>
+									<div class="name">The Tech <br>Portal</div>
+									<div class="single-post-text">
+										<p>
+											Served as a Content Writer for this online tech news portal for a brief period.
+										</p>
+									</div>
+								</div>
+							</div></div><div class="owl-item" style="width: 340px; margin-right: 40px;"><div class="item">
+								<!-- <div class="resume-item">
+									<div class="date">2012-2014</div>
+									<div class="name">Art Director <br>Facebook</div>
+									<div class="single-post-text">
+										<p>
+											Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. 
+Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
+										</p>
+									</div>
+								</div>
+							</div></div><div class="owl-item" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="resume-item">
+									<div class="date">2010-2012</div>
+									<div class="name">Art Director <br>Facebook</div>
+									<div class="single-post-text">
+										<p>
+											Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. 
+Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
+										</p>
+									</div>
+								</div>-->
+							</div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div> 
+
+						<!-- navigation -->
+						<div class="navs">
+							<span class="prev fas fa-chevron-left"></span>
+							<span class="next fas fa-chevron-right"></span>
+						</div>
+
+					</div>
+
+				</div>
+			</div>
+
+			<!-- Section Resume -->
+			<div class="section resume" id="section-education">
+				<div class="content">
+
+					<!-- title -->
+					<div class="titles">
+						<div class="title">Education</div>
+						<div class="subtitle">Studied at</div>
+					</div>
+
+					<!-- resume items -->
+					<div class="content-carousel">
+						<div class="owl-carousel owl-loaded owl-drag" data-slidesview="2" data-slidesview_mobile="1">
+
+							
+
+							
+
+							
+
+							
+
+							
+
+						<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;"><div class="owl-item active" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="resume-item active">
+									<div class="date">2002-2014</div>
+									<div class="name">Meghmala Roy <br>Education Center</div>
+									<div class="single-post-text">
+										<p>
+											From Kindergarten to 10th Standard.<br> Computer Science, 95% in boards. <br> <strong>ICSE - Indian Council for Secondary Education.</strong>
+										</p>
+									</div>
+								</div>
+							</div></div><div class="owl-item active" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="resume-item">
+									<div class="date">2014-2016</div>
+									<div class="name">M.P.Birla Foundation <br>H.S.School</div>
+									<div class="single-post-text">
+										<p>
+											11th and 12th Standard. Computer Science.<br> 92% aggregate - 95.75% in best 4 subjects. <br> <strong>ISC - Indian School Certificate.</strong>
+										</p>
+									</div>
+								</div>
+							</div></div><div class="owl-item" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="resume-item">
+									<div class="date">2017-2021</div>
+									<div class="name">St. Thomas' College of<br> Engineering & Technology</div>
+									<div class="single-post-text">
+										<p>
+											Bachelor of Technology in Computer Science & Engineering.<br> Managing a 9.27 GPA throughout<br> <strong>MAKAUT- Maulana Abul Kalam Azad University of Technology</strong>
+										</p>
+									</div>
+								</div>
+							</div></div><div class="owl-item" style="width: 340px; margin-right: 40px;"><div class="item">
+								<!-- <div class="resume-item">
+									<div class="date">2012-2014</div>
+									<div class="name">Art Course <br>London</div>
+									<div class="single-post-text">
+										<p>
+											Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. 
+Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
+										</p>
+									</div>
+								</div>
+							</div></div><div class="owl-item" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="resume-item">
+									<div class="date">2010-2012</div>
+									<div class="name">Art Course <br>London</div>
+									<div class="single-post-text">
+										<p>
+											Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. 
+Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
+										</p>
+									</div>
+								</div> -->
+							</div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div>
+
+						<!-- navigation -->
+						<div class="navs">
+							<span class="prev fas fa-chevron-left"></span>
+							<span class="next fas fa-chevron-right"></span>
+						</div>
+
+					</div>
+
+				</div>
+			</div>
+
+			<!-- Section Design Skills -->
+			<div class="section skills" id="section-skills">
+				<div class="content">
+
+					<!-- title -->
+					<div class="titles">
+						<div class="title">Development Skills</div>
+						<div class="subtitle">Creative ability</div>
+					</div>
+
+					<!-- skills items -->
+					<div class="skills percent">
+						<ul>
+							<li>
+								<div class="name">Front-end Development </div>
+								<div class="single-post-text">
+									<p>
+										The front-end(visible) portion of every website.
+									</p>
+								</div>
+								<div class="progress">
+									<div class="percentage" style="width: 60%;">
+										<span class="percent">60%</span>
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="name">Digital Illustrations</div>
+								<div class="single-post-text">
+									<p>
+										Digital paintings, portraits, contemporary artworks etcetera...
+									</p>
+								</div>
+								<div class="progress">
+									<div class="percentage" style="width: 80%;">
+										<span class="percent">80%</span>
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="name">Back-end Development</div>
+								<div class="single-post-text">
+									<p>
+										The back-end (behind the scenes) of every dynamic website available. Working with database, API integrations and stuff.
+									</p>
+								</div>
+								<div class="progress">
+									<div class="percentage" style="width: 65%;">
+										<span class="percent">65%</span>
+									</div>
+								</div>
+							</li>
+							<!-- <li>
+								<div class="name">Indian Classical Music</div>
+								<div class="single-post-text">
+									<p>
+										Indian classical music and instruments.
+									</p>
+								</div>
+								<div class="progress">
+									<div class="percentage" style="width: 75%;">
+										<span class="percent">75%</span>
+									</div>
+								</div>
+							</li> -->
+						</ul>
+					</div>
+
+				</div>
+			</div>
+
+			<!-- Section Languages Skills -->
+			<div class="section skills" id="section-skills-lang">
+				<div class="content">
+
+					<!-- title -->
+					<div class="titles">
+						<div class="title">Language Skills</div>
+						<div class="subtitle">Reading and writing</div>
+					</div>
+
+					<!-- skills items -->
+					<div class="skills dotted">
+						<ul>
+							<li>
+								<div class="name">English</div>
+								<div class="single-post-text">
+									<p>
+										
+									</p>
+								</div>
+								<div class="progress">
+									<div class="percentage" style="width: 90%;">
+										<span class="percent">90%</span>
+									<span class="da" style="width: 340px;"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></div>
+								<span class="dg"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></div>
+							</li>
+							<li>
+								<div class="name">Hindi</div>
+								<div class="single-post-text">
+									<p>
+										
+									</p>
+								</div>
+								<div class="progress">
+									<div class="percentage" style="width: 80%;">
+										<span class="percent">80%</span>
+									<span class="da" style="width: 340px;"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></div>
+								<span class="dg"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></div>
+							</li>
+							<li>
+								<div class="name">Bengali</div>
+								<div class="single-post-text">
+									<p>
+										
+									</p>
+								</div>
+								<div class="progress">
+									<div class="percentage" style="width: 95%;">
+										<span class="percent">95%</span>
+										<span class="da" style="width: 340px;"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></div>
+										<span class="dg"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></div>
+									</li>
+							<!-- <li>
+								<div class="name">French</div>
+								<div class="single-post-text">
+									<p>
+										Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.
+									</p>
+								</div>
+								<div class="progress">
+									<div class="percentage" style="width: 85%;">
+										<span class="percent">85%</span>
+									<span class="da" style="width: 340px;"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></div>
+								<span class="dg"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></div>
+							</li> -->
+						</ul>
+					</div>
+
+				</div>
+
+			</div>
+
+			<!-- Section Coding Skills -->
+			<div class="section skills" id="section-skills-code">
+				<div class="content">
+					
+					<!-- title -->
+					<div class="titles">
+						<div class="title">Coding Skills</div>
+						<div class="subtitle">Developing on</div>
+					</div>
+
+					<!-- skills items-->
+					<div class="skills circles">
+						<ul>
+							<li>
+								<div class="progress p90"> <!-- p90 = 90% circle fill color -->
+									<div class="percentage"></div>
+									<span>90%</span>
+								<div class="slice"><div class="bar"></div><div class="fill"></div></div></div>
+								<div class="name">JAVA</div>
+								<div class="single-post-text">
+									<p>
+										Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+									</p>
+								</div>
+							</li>
+							<li>
+								<div class="progress p75"> <!-- p75 = 75% circle fill color -->
+									<div class="percentage"></div>
+									<span>75%</span>
+								<div class="slice"><div class="bar"></div><div class="fill"></div></div></div>
+								<div class="name">C, C++</div>
+								<div class="single-post-text">
+									<p>
+										C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".
+									</p>
+								</div>
+							</li>
+							<li>
+								<div class="progress p75"> <!-- p85 = 85% circle fill color -->
+									<div class="percentage"></div>
+									<span>75%</span>
+								<div class="slice"><div class="bar"></div><div class="fill"></div></div></div>
+								<div class="name">JavaScript</div>
+								<div class="single-post-text">
+									<p>JavaScript is a high-level scripting language, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax,
+										  dynamic typing, prototype-based object-orientation, and first-class functions.
+									</p>
+								</div>
+							</li>
+							<li>
+								<div class="progress p70"> <!-- p80 = 80% circle fill color -->
+									<div class="percentage"></div>
+									<span>70%</span>
+								<div class="slice"><div class="bar"></div><div class="fill"></div></div></div>
+								<div class="name">Libraries & Frameworks</div>
+								<div class="single-post-text">
+									<p>
+										ReactJS, AngularJS, Spring, and others.
+									</p>
+								</div>
+							</li>
+							<li>
+								<div class="progress p90"> <!-- p95 = 95% circle fill color -->
+									<div class="percentage"></div>
+									<span>90%</span>
+								<div class="slice"><div class="bar"></div><div class="fill"></div></div></div>
+								<div class="name">HTML, CSS</div>
+								<div class="single-post-text">
+									<p>
+										Cascading Style Sheets is a style sheet language used for describing the presentation of a document written 
+										in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+									</p>
+								</div>
+							</li>
+							<li>
+								<div class="progress p70"> <!-- p90 = 90% circle fill color -->
+									<div class="percentage"></div>
+									<span>70%</span>
+								<div class="slice"><div class="bar"></div><div class="fill"></div></div></div>
+								<div class="name">SQL</div>
+								<div class="single-post-text">
+									<p>
+										SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.	
+									</p>
+								</div>
+							</li>
+						</ul>
+					</div>
+
+				</div>
+			</div>
+
+			<!-- Section Testimonials -->
+			<div class="section testimonials" id="section-testimonials">
+				<div class="content">
+
+					<!-- title -->
+					<div class="titles">
+						<div class="title">Reviews</div>
+						<div class="subtitle">What customers say</div>
+					</div>
+
+					<!-- testimonials items -->
+					<div class="content-carousel">
+						<div class="owl-carousel owl-loaded owl-drag" data-slidesview="2" data-slidesview_mobile="1">
+
+							
+
+							
+
+							
+
+							
+
+						<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1520px;"><div class="owl-item active" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="reviews-item">
+									<div class="image">
+										<img src="index_data/rev1.png" alt="">
+									</div>
+									<div class="info">
+										<div class="name">Joseph Mackey</div>
+										<div class="company">Architect</div>
+									</div>
+									<div class="text">
+										Excellent all around! What stood out most was Jake's excellent
+ service. He made sure our order was placed in time, even though we were
+ ordering on a holiday.
+									</div>
+								</div>
+							</div></div><div class="owl-item active" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="reviews-item">
+									<div class="image">
+										<img src="index_data/rev1.png" alt="">
+									</div>
+									<div class="info">
+										<div class="name">James Green</div>
+										<div class="company">Art Director</div>
+									</div>
+									<div class="text">
+										Excellent all around! What stood out most was Jake's excellent
+ service. He made sure our order was placed in time, even though we were
+ ordering on a holiday.
+									</div>
+								</div>
+							</div></div><div class="owl-item" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="reviews-item">
+									<div class="image">
+										<img src="index_data/rev1.png" alt="">
+									</div>
+									<div class="info">
+										<div class="name">Joseph Mackey</div>
+										<div class="company">Architect</div>
+									</div>
+									<div class="text">
+										Excellent all around! What stood out most was Jake's excellent
+ service. He made sure our order was placed in time, even though we were
+ ordering on a holiday.
+									</div>
+								</div>
+							</div></div><div class="owl-item" style="width: 340px; margin-right: 40px;"><div class="item">
+								<div class="reviews-item">
+									<div class="image">
+										<img src="index_data/rev1.png" alt="">
+									</div>
+									<div class="info">
+										<div class="name">James Green</div>
+										<div class="company">Art Director</div>
+									</div>
+									<div class="text">
+										Excellent all around! What stood out most was Jake's excellent
+ service. He made sure our order was placed in time, even though we were
+ ordering on a holiday.
+									</div>
+								</div>
+							</div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div>
+
+						<!-- navigation -->
+						<div class="navs">
+							<span class="prev fas fa-chevron-left"></span>
+							<span class="next fas fa-chevron-right"></span>
+						</div>
+
+					</div>
+					
+				</div>
+			</div>
+
+			<!-- Section Clients -->
+			<div class="section clients" id="section-clients">
+				<div class="content">
+
+					<!-- title -->
+					<div class="titles">
+						<div class="title">Clients</div>
+						<div class="subtitle">My partners</div>
+					</div>
+
+					<!-- clients items -->
+					<div class="content-carousel">
+						<div class="owl-carousel owl-loaded owl-drag" data-slidesview="4" data-slidesview_mobile="2">
+
+							
+
+							
+
+							
+
+							
+
+							
+
+							
+
+							
+
+							
+
+						<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1520px;"><div class="owl-item active" style="width: 150px; margin-right: 40px;"><div class="item">
+								<div class="clients-item">
+									<a target="_blank" href="#">
+										<img src="index_data/client2.png" alt="">
+									</a>
+								</div>
+							</div></div><div class="owl-item active" style="width: 150px; margin-right: 40px;"><div class="item">
+								<div class="clients-item">
+									<a target="_blank" href="#">
+										<img src="index_data/client3.png" alt="">
+									</a>
+								</div>
+							</div></div><div class="owl-item active" style="width: 150px; margin-right: 40px;"><div class="item">
+								<div class="clients-item">
+									<a target="_blank" href="#">
+										<img src="index_data/client1.png" alt="">
+									</a>
+								</div>
+							</div></div><div class="owl-item active" style="width: 150px; margin-right: 40px;"><div class="item">
+								<div class="clients-item">
+									<a target="_blank" href="#">
+										<img src="index_data/client4.png" alt="">
+									</a>
+								</div>
+							</div></div><div class="owl-item" style="width: 150px; margin-right: 40px;"><div class="item">
+								<div class="clients-item">
+									<a target="_blank" href="#">
+										<img src="index_data/client2.png" alt="">
+									</a>
+								</div>
+							</div></div><div class="owl-item" style="width: 150px; margin-right: 40px;"><div class="item">
+								<div class="clients-item">
+									<a target="_blank" href="#">
+										<img src="index_data/client3.png" alt="">
+									</a>
+								</div>
+							</div></div><div class="owl-item" style="width: 150px; margin-right: 40px;"><div class="item">
+								<div class="clients-item">
+									<a target="_blank" href="#">
+										<img src="index_data/client1.png" alt="">
+									</a>
+								</div>
+							</div></div><div class="owl-item" style="width: 150px; margin-right: 40px;"><div class="item">
+								<div class="clients-item">
+									<a target="_blank" href="#">
+										<img src="index_data/client4.png" alt="">
+									</a>
+								</div>
+							</div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div>
+
+						<!-- navigation -->
+						<div class="navs">
+							<span class="prev fas fa-chevron-left"></span>
+							<span class="next fas fa-chevron-right"></span>
+						</div>
+
+					</div>
+					
+					<div class="clear"></div>
+				</div>
+			</div>
+
+			<!-- Works -->
+			<div class="section works" id="section-portfolio">
+				<div class="content">
+
+					<!-- title -->
+					<div class="titles">
+						<div class="title">Portfolio</div>
+						<div class="subtitle">Latest works</div>
+					</div>
+
+					<!-- filter -->
+					<div class="filter-menu">
+						<div class="filters">
+							<div class="btn-group">
+								<label data-text="All" class="glitch-effect">
+									<input type="radio" name="fl_radio" value=".box-col">All
+								</label>
+							</div>
+							<div class="btn-group">
+								<label data-text="Video">
+									<input type="radio" name="fl_radio" value=".f-video">Video
+								</label>
+							</div>
+							<div class="btn-group">
+								<label data-text="Music">
+									<input type="radio" name="fl_radio" value=".f-music">Music
+								</label>
+							</div>
+							<div class="btn-group">
+								<label data-text="Links">
+									<input type="radio" name="fl_radio" value=".f-links">Links
+								</label>
+							</div>
+							<div class="btn-group">
+								<label data-text="Image">
+									<input type="radio" name="fl_radio" value=".f-image">Image
+								</label>
+							</div>
+							<div class="btn-group">
+								<label data-text="Gallery">
+									<input type="radio" name="fl_radio" value=".f-gallery">Gallery
+								</label>
+							</div>
+							<div class="btn-group">
+								<label data-text="Content">
+									<input type="radio" name="fl_radio" value=".f-content">Content
+								</label>
+							</div>
+							
+						</div>
+					</div>
+
+					<!-- portfolio items -->
+					<div class="box-items" style="position: relative; height: 1888px;">	
+
+						<div class="box-col f-gallery" style="position: absolute; left: 0px; top: 0px;">
+							<div class="box-item">
+								<div class="image">
+									<a href="#gallery-1" class="has-popup-gallery">
+										<img src="index_data/work1.jpg" alt="">
+										<span class="info">
+											<span class="centrize full-width">
+												<span class="vertical-center">
+													<i class="icon fas fa-images"></i>
+												</span>
+											</span>
+										</span>
+									</a>
+									<div id="gallery-1" class="mfp-hide">
+										<a href="https://bslthemes.com/myour/demo/images/works/work1.jpg"></a>
+										<a href="https://bslthemes.com/myour/demo/images/works/work2.jpg"></a>
+										<a href="https://bslthemes.com/myour/demo/images/works/work3.jpg"></a>
+										<a href="https://bslthemes.com/myour/demo/images/works/work4.jpg"></a>
+									</div>
+								</div>
+								<div class="desc">
+									<div class="category">Gallery</div>
+									<a href="#gallery-1" class="name has-popup-gallery">Alabaster Complete Collection</a>
+								</div>
+							</div>
+						</div>
+
+						<div class="box-col f-video" style="position: absolute; left: 380px; top: 0px;">
+							<div class="box-item">
+								<div class="image">
+									<a href="https://youtu.be/S4L8T2kFFck" class="has-popup-video">
+										<img src="index_data/work2.jpg" alt="">
+										<span class="info">
+											<span class="centrize full-width">
+												<span class="vertical-center">
+													<i class="icon fas fa-video"></i>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+								<div class="desc">
+									<div class="category">Video</div>
+									<a href="https://youtu.be/S4L8T2kFFck" class="name has-popup-video">Book of John Paper</a>
+								</div>
+							</div>
+						</div>
+
+						<div class="box-col f-image" style="position: absolute; left: 0px; top: 472px;">
+							<div class="box-item">
+								<div class="image">
+									<a href="https://bslthemes.com/myour/demo/images/works/work7.jpg" class="has-popup-image">
+										<img src="index_data/work7.jpg" alt="">
+										<span class="info">
+											<span class="centrize full-width">
+												<span class="vertical-center">
+													<i class="icon fas fa-image"></i>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+								<div class="desc">
+									<div class="category">Image</div>
+									<a href="https://bslthemes.com/myour/demo/images/works/work7.jpg" class="name has-popup-image">White Rose Photo</a>
+								</div>
+							</div>
+						</div>
+
+						<div class="box-col f-image" style="position: absolute; left: 380px; top: 472px;">
+							<div class="box-item">
+								<div class="image">
+									<a href="https://bslthemes.com/myour/demo/images/works/work4.jpg" class="has-popup-image">
+										<img src="index_data/work4.jpg" alt="">
+										<span class="info">
+											<span class="centrize full-width">
+												<span class="vertical-center">
+													<i class="icon fas fa-image"></i>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+								<div class="desc">
+									<div class="category">Image</div>
+									<a href="https://bslthemes.com/myour/demo/images/works/work4.jpg" class="name has-popup-image">Honest Company</a>
+								</div>
+							</div>
+						</div>
+
+						<div class="box-col f-gallery" style="position: absolute; left: 0px; top: 944px;">
+							<div class="box-item">
+								<div class="image">
+									<a href="#gallery-2" class="has-popup-gallery">
+										<img src="index_data/work5.jpg" alt="">
+										<span class="info">
+											<span class="centrize full-width">
+												<span class="vertical-center">
+													<i class="icon fas fa-images"></i>
+												</span>
+											</span>
+										</span>
+									</a>
+									<div id="gallery-2" class="mfp-hide">
+										<a href="https://bslthemes.com/myour/demo/images/works/work5.jpg"></a>
+										<a href="https://bslthemes.com/myour/demo/images/works/work2.jpg"></a>
+										<a href="https://bslthemes.com/myour/demo/images/works/work3.jpg"></a>
+										<a href="https://bslthemes.com/myour/demo/images/works/work4.jpg"></a>
+									</div>
+								</div>
+								<div class="desc">
+									<div class="category">Gallery</div>
+									<a href="#gallery-2" class="name has-popup-gallery">Brown Short Dog</a>
+								</div>
+							</div>
+						</div>
+
+						<div class="box-col f-music" style="position: absolute; left: 380px; top: 944px;">
+							<div class="box-item">
+								<div class="image">
+									<a href="https://w.soundcloud.com/player/?visual=true&amp;url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F221650664&amp;show_artwork=true" class="has-popup-music">
+										<img src="index_data/work6.jpg" alt="">
+										<span class="info">
+											<span class="centrize full-width">
+												<span class="vertical-center">
+													<i class="icon fas fa-music"></i>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+								<div class="desc">
+									<div class="category">Music</div>
+									<a href="https://w.soundcloud.com/player/?visual=true&amp;url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F221650664&amp;show_artwork=true" class="name has-popup-music">Brown Concrete Building</a>
+								</div>
+							</div>
+						</div>
+
+						<div class="box-col f-links" style="position: absolute; left: 0px; top: 1416px;">
+							<div class="box-item">
+								<div class="image">
+									<a href="https://beshley.com/" class="has-popup-link" target="_blank">
+										<img src="index_data/work3.jpg" alt="">
+										<span class="info">
+											<span class="centrize full-width">
+												<span class="vertical-center">
+													<i class="icon fas fa-link"></i>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+								<div class="desc">
+									<div class="category">Links</div>
+									<a href="https://beshley.com/" class="name has-popup-link">Black Car</a>
+								</div>
+							</div>
+						</div>
+
+						<div class="box-col f-content" style="position: absolute; left: 380px; top: 1416px;">
+							<div class="box-item">
+								<div class="image">
+									<a href="#popup-1" class="has-popup-media">
+										<img src="index_data/work8.jpg" alt="">
+										<span class="info">
+											<span class="centrize full-width">
+												<span class="vertical-center">
+													<i class="icon fas fa-plus"></i>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+								<div class="desc">
+									<div class="category">Content</div>
+									<a href="#popup-1" class="name has-popup-media">Yellow and Blue Striped</a>
+								</div>
+								<div id="popup-1" class="popup-box mfp-fade mfp-hide">
+									<div class="content">
+										<div class="image">
+											<img src="index_data/work8.jpg" alt="">
+										</div>
+										<div class="desc">
+											<div class="category">Content</div>
+											<h4>Yellow and Blue Striped</h4>
+											<p>
+												Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata 
+												suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+											</p>
+											<a href="#" class="btn">
+												<span class="animated-button"><span><em>V</em><em>i</em><em>e</em><em>w</em><em> </em><em>P</em><em>r</em><em>o</em><em>j</em><em>e</em><em>c</em><em>t</em></span></span>
+												<i class="icon fas fa-chevron-right"></i>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="clear"></div>
+				</div>
+			</div>
+
+			<!-- Section Contacts Info >-->
+			<div class="section contacts" id="section-contacts">
+				<div class="content">
+
+					<!-- title -->
+					<div class="titles">
+						<div class="title">Contact</div>
+						<div class="subtitle">Let's talk</div>
+					</div>
+
+					<!-- contact form -->
+					<div class="contact-form">
+						<form id="cform" method="post" novalidate="novalidate">
+							<div class="group-val">
+								<div class="label">Full name <strong>*</strong></div>
+   								<input type="text" name="name" placeholder="ej.: Genoveva Lian Hullt">
+							</div>
+							<div class="group-val">
+								<div class="label">Email address <strong>*</strong></div>
+								<input type="email" name="email" placeholder="example@domain.com">
+							</div>
+							<div class="group-val">
+								<div class="label">Message <strong>*</strong></div>
+								<textarea name="message" placeholder="To Write"></textarea>
+							</div>
+							<div class="group-bts">
+								<button type="submit" class="btn">
+									<span class="animated-button"><span><em>S</em><em>e</em><em>n</em><em>d</em><em> </em><em>M</em><em>e</em><em>s</em><em>s</em><em>a</em><em>g</em><em>e</em></span></span>
+									<i class="icon fas fa-chevron-right"></i>
+								</button>
+							</div>
+						</form>
+						<div class="alert-success">
+							<p>Thanks, your message is sent successfully.</p>
+						</div>
+					</div>
+
+					<!-- contact info -->
+					<div class="contact-info">
+						<div class="name">Joe Wilson</div>
+						<div class="subname">Consultant &amp; Mentor</div>
+						<div class="info-list">
+							<ul>
+								<li><strong>Age:</strong> 24</li>
+								<li><strong>Residence:</strong> USA</li>
+								<li><strong>Freelance:</strong> Available</li>
+								<li><strong>Address:</strong> San Francisco</li>
+								<li><strong>Phone:</strong> +1 256 254 84 56</li>
+								<li><strong>E-mail:</strong> alejandroa@gmail.com</li>
+							</ul>
+						</div>
+						<div class="author">Joe Wilson</div>
+					</div>
+
+					<div class="clear"></div>
+				</div>
+			</div>
+
+		</div>
+		
+		<!-- Footer -->
+		<footer class="footer">
+			<div class="socials">
+				<a target="_blank" href="https://www.facebook.com/tamaghno.chaudhuri/">
+					<i class="icon fab fa-facebook-f"></i>
+				</a>
+				<a target="_blank" href="https://www.instagram.com/_tamaghnooooo/">
+					<i class="icon fab fa-instagram"></i>
+				</a>
+				<a target="_blank" href="https://www.linkedin.com/in/tamaghno-chaudhuri-339b6665">
+					<i class="icon fab fa-linkedin"></i>
+				</a>
+			</div>
+		</footer>
+		
+	</div>
+
+	<!-- Scripts -->
+	<script src="index_data/jquery.js"></script>
+	<script src="index_data/velocity.js"></script>
+	<script src="index_data/jquery_002.js"></script>
+	<script src="index_data/magnific-popup.js"></script>
+	<script src="index_data/typed.js"></script>
+	<script src="index_data/jarallax.js"></script>
+	<script src="index_data/jarallax-video.js"></script>
+	<script src="index_data/jarallax-element.js"></script>
+	<script src="index_data/imagesloaded.js"></script>
+	<script src="index_data/isotope.js"></script>
+	<script src="index_data/owl.js"></script>
+	<script src="index_data/swiper.js"></script>
+	<script src="index_data/scripts.js"></script>
+
+
+</body></html>
